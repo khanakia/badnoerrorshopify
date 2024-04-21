@@ -2,6 +2,8 @@
 ## Error
 Dated: Sat, 20 Apr 2024 03:53:07 GMT
 
+API URL: https://bad-no.myshopify.com/admin/api/2023-07/graphql.json
+
 ### Response Headeres
 ```json
 {
